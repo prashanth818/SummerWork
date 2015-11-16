@@ -1,0 +1,4392 @@
+inital config
+(-1, 2, 0)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(2, 0, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(2, 0, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, 0, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, 0, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(1, -1, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(1, -1, -1)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, -1)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, 2, -1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(2, -1, 1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(2, -1, 1)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(2, -1, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, -1, 1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(1, -1, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(1, -1, 0)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, 0)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, 2, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 2, -1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(1, 2, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(-1, 2, 0)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(-1, 2, 0)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 0, 1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 0, 1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(2, -1, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(2, -1, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(2, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, -1, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, -1, 1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, -1, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, -1, 1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 0, 1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(1, -1, 0)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(1, -1, 0)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(1, -1, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, -1, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, 0)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, 0, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 2, 0)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, -1)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(2, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(2, 0, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, 0, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, 0, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 2, 0)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(2, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(2, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(2, -1, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(1, 2, -1)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, 2, -1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(2, -1, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(2, -1, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(2, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(2, 0, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(2, 0, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, 0, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, 0, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(2, -1, 1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, -1, 1)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 0, 1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(1, -1, 0)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(1, -1, 0)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(1, -1, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, -1, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, 0)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 0, -1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, -1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(1, -1, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(1, -1, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(1, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, -1)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(2, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(2, 0, -1)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, 0, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, 0, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(2, -1, 1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, -1, 1)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(-1, -1, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(2, 0, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(2, 0, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, 0, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, 0, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, -1, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, -1, 1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, -1, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, 2, -1)
+(1, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, -1)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(1, 2, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(1, 2, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(-1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(-1, 2, -1)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(2, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(-1, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, -1, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, -1)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, -1, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(2, -1, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(-1, -1, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, -1, 0)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 0, 1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, -1, 0)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, -1, 0)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, -1, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, -1, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, -1, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(-1, -1, 1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(-1, -1, 1)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, -1, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, -1, 1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(-1, 0, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 0, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, -1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, 0, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, 0, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(-1, 2, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 2, 0)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(2, -1, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, -1, 1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(1, -1, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(1, -1, 0)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, 0)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, 2, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 2, 0)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(-1, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 0, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 0, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 0, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, -1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, -1, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, -1, 1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, -1, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, -1, 1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(2, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, 1)
+inital config
+(-2, -1, 1)
+(2, -1, 1)
+put_down
+block0
+block2
+(2, -1, 1)
+inital config
+(2, -1, 1)
+(-1, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, 1)
+inital config
+(-2, -1, 1)
+(-1, 0, -1)
+put_down
+block0
+tab0
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(-1, 0, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 0, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, -1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(-1, 2, 0)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(-1, 2, 0)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, -1, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, -1, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, 0)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 0, -1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, -1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, 0, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, 0, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(-1, -1, 0)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(-1, -1, 0)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(-1, -1, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, -1, 0)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, -1, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(1, -1, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(1, -1, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, -1)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, 2, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 2, 0)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(1, 2, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(1, 2, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(1, 2, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(-1, 2, 0)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(-1, 2, 0)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(2, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(2, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(2, -1, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, -1, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, -1)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, -1, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, -1, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+inital config
+(-1, -1, 1)
+(-1, 0, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 0, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, -1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(1, -1, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, -1, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, 0)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, -1, -1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(2, 0, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(2, 0, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, 0, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, 0, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(2, 0, -1)
+put_down
+block0
+block2
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(2, 0, -1)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(2, 0, -1)
+put_down
+block1
+block0
+(2, 0, -1)
+inital config
+(2, 0, -1)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(2, -2, -1)
+inital config
+(2, -2, -1)
+(-1, 2, 0)
+put_down
+block1
+tab0
+(2, -1, -1)
+inital config
+(2, -1, -1)
+(-1, 2, 0)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 2, 0)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 2, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 2, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 2, 0)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, 2, 0)
+put_down
+block1
+block2
+(-1, 2, 0)
+inital config
+(-1, 2, 0)
+(-1, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, 0)
+inital config
+(-1, -2, 0)
+(-1, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, -1, -1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, -1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, -1)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, 2, -1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(1, 2, -1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(1, 2, -1)
+put_down
+block0
+block1
+(1, 2, -1)
+inital config
+(1, 2, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, 2, -1)
+inital config
+(-2, 2, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(1, -1, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(1, -1, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(1, -1, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(1, -1, -1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(1, -1, -1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(1, -1, -1)
+put_down
+block0
+block1
+(1, -1, -1)
+inital config
+(1, -1, -1)
+(-1, 0, 1)
+pick_up
+block0
+null0
+(-2, -1, -1)
+inital config
+(-2, -1, -1)
+(-1, 0, 1)
+put_down
+block0
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, -1, 0)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, -1, 0)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, -1, 0)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, -1, 0)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, -1, 0)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, -1, 0)
+put_down
+block2
+block0
+(-1, -1, 0)
+inital config
+(-1, -1, 0)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(-1, 0, 1)
+put_down
+block2
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(-1, 0, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 0, 1)
+put_down
+block1
+block0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 0, 1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 0, 1)
+put_down
+block2
+block1
+(-1, 0, 1)
+inital config
+(-1, 0, 1)
+(-1, 2, -1)
+pick_up
+block2
+null0
+(-1, 0, -2)
+inital config
+(-1, 0, -2)
+(-1, 2, -1)
+put_down
+block2
+tab0
+(-1, 0, -1)
+inital config
+(-1, 0, -1)
+(-1, 2, -1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(-1, 2, -1)
+put_down
+block1
+block2
+(-1, 2, -1)
+inital config
+(-1, 2, -1)
+(2, -1, 1)
+pick_up
+block1
+null0
+(-1, -2, -1)
+inital config
+(-1, -2, -1)
+(2, -1, 1)
+put_down
+block1
+tab0
+(-1, -1, -1)
+inital config
+(-1, -1, -1)
+(2, -1, 1)
+pick_up
+block2
+null0
+(-1, -1, -2)
+inital config
+(-1, -1, -2)
+(2, -1, 1)
+put_down
+block2
+block1
+(-1, -1, 1)
+generatedRules: 
+  rule: ['has_shape(D, prism)']
+Publishers running...
