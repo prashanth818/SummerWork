@@ -1,0 +1,60 @@
+    if(armlink.ext  == 0){
+    // no special action, '0' indicates that a movement command has come through
+        g_fArmActive = true;
+    }
+    else if(armlink.ext == 0x11){  //96
+        EmergencyStop();
+        IDPacket();
+    }
+    else if(armlink.ext == 0x20){  //32
+    g_bIKMode = IKM_IK3D_CARTESIAN;
+        MoveArmToHome();
+        IDPacket();
+    }
+    else if(armlink.ext == 0x28){  //40
+    g_bIKMode = IKM_IK3D_CARTESIAN_90;
+        MoveArmTo90Home();
+        IDPacket();
+    }
+    else if(armlink.ext == 0x30){  //48
+    g_bIKMode = IKM_CYLINDRICAL;
+        MoveArmToHome();
+        IDPacket();
+    }
+    else if(armlink.ext == 0x38){  //56
+    g_bIKMode = IKM_CYLINDRICAL_90;
+        MoveArmTo90Home();
+        IDPacket();
+    }
+    else if(armlink.ext == 0x40){  //64
+    g_bIKMode = IKM_BACKHOE;
+        MoveArmToHome();
+        IDPacket();
+    }
+    else if(armlink.ext == 0x48){  //72
+        // do something
+    }
+    else if(armlink.ext == 0x50){  //80
+        MoveArmToHome();
+        IDPacket();
+    }
+    else if(armlink.ext == 0x58){  //88
+        MoveArmTo90Home();
+        IDPacket();
+    }
+    else if(armlink.ext == 0x60){  //96
+        PutArmToSleep();
+        IDPacket();
+    }
+    else if(armlink.ext == 0x70){  //112
+        IDPacket();
+    }
+    else if(armlink.ext == 0x80){  //128
+        //IK value response
+    }
+    else if(armlink.ext == 0x81){  //129
+        ReportServoRegister(armlink.ext,  armlink.Xaxis,  armlink.Yaxis,  armlink.Zaxis);
+    }
+    else if(armlink.ext == 0x82){  //130
+        SetServoRegister(armlink.ext,  armlink.Xaxis,  armlink.Yaxis,  armlink.Zaxis, armlink.W_ang);
+    }
