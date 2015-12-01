@@ -123,10 +123,10 @@ class MDP:
         training_set = []
         print "Simulating"
         for state in stackstate:
-            self.rewardmat[state.getLabel()] = -4
+            self.rewardmat[state.getLabel()] = -3.5
             print "stack state"
-        self.rewardmat[errorstate.getLabel()] = 10
-        for i in range(0,100):
+        self.rewardmat[errorstate.getLabel()] = 7.5
+        for i in range(0,10):
             currentstate = r.choice(self.statelist)
             while(currentstate != self.statelist[errorstate.getLabel()]):
                 #choose State action must change.
@@ -147,10 +147,6 @@ class MDP:
             for state in self.statelist:
                 for action in state.getActions():
                     action.setVisited(False)
-        for rule in rules:
-            print rule
-            print "\n"
-        print "end of simulation"
         """END"""
 
     def onPolicyLearning(self, action_chosen):
@@ -167,7 +163,7 @@ class MDP:
         """END"""
 
     def bellmanFordFunction(self, currentstate, action_chosen):
-        gamma = 0.75
+        gamma = 0.6
         alpha = 1.0/(action_chosen.getNumVisits() + 2.0)
         reward = self.rewardmat[action_chosen.getNextStateAddr()]
         nextstate_maxqval = max(self.qmat[action_chosen.getNextStateAddr()])

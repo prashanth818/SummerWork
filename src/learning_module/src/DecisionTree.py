@@ -15,6 +15,7 @@ It needs to be seperated
 """
 from copy import deepcopy
 from scipy import stats
+import math
 import numpy as np
 import random
 import operator
@@ -99,9 +100,7 @@ class DecisionTree:
         for rule in self.rules:
             average = 0.0
             for q_val in rule[-1]:
-                # print q_val[-1]
                 average += q_val[-1]
-            # print "\n"
             average /= len(rule[-1])
             rules.append([rule[0], average])
         return rules
@@ -121,7 +120,7 @@ class DecisionTree:
         child_bound = 0.0
         for node in child_nodes:
             child_bound += node.getBound()
-        child_bound = child_bound/len(child_nodes)
+        child_bound = abs(child_bound/len(child_nodes))
         if child_bound > parent_node.getBound():
             return True
         else:
@@ -155,7 +154,8 @@ class DecisionTree:
             self.tree.append(child_node)
         child_nodes = deepcopy(current_node.getChildNodes())
         for node in child_nodes:
-            self.createDecisionTree(node)
+            if node.isLeafNode() == False:
+                self.createDecisionTree(node)
 
     def pruneDecisionTree(self):
         for node in self.tree:
@@ -171,7 +171,6 @@ class DecisionTree:
                     if len(leaf_nodes)>0:
                         is_bound = self.isBoundNode(parent_node, leaf_nodes)
                         if is_bound == True:
-                            print "bounding"
                             for node in leaf_nodes:
                                 self.tree[node.getAddr()] = None
                             parent_node.setLeafNode()
@@ -242,6 +241,8 @@ class DecisionTree:
         mean = np.mean(error_list)
         sigma = np.std(error_list)
         lower, upper = stats.norm.interval(0.68, loc=mean, scale=sigma)
+        if math.isnan(upper):
+            upper = max(qlist)
         return upper
 
     def findNextBestNode(self, attributes, training_sample, parent_length):
@@ -269,6 +270,7 @@ class DecisionTree:
         if current_best == None:
             rand_attr = random.choice(attributes)
             current_best = Node(rand_attr, training_sample)
+            current_best.setLeafNode()
         bound = self.calculateBound(qlist)*(float(len(qlist))/float(parent_length))
         current_best.setBound(bound)
         return current_best

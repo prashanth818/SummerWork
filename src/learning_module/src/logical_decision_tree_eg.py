@@ -137,7 +137,7 @@ class LearningModule:
         training_set = self.StateActionPairs
 
         attr_shape = ("cube", "prism", "cuboid")
-        attr_2500colour = ("red", "blue", "green")
+        attr_colour = ("red", "blue", "green")
         attr_size = ("small","medium","large")
         attribute_dict = [("has_shape(A,", attr_shape), ("has_colour(A,", attr_colour), ("has_size(A,", attr_size),
                             ("has_shape(D,", attr_shape), ("has_colour(D,",attr_colour), ("has_size(D,", attr_size)]
@@ -219,45 +219,44 @@ def shapeScenario(learning_module, attributes):
     for error_config in errors_shape:
         learning_module.initialise_mdp(blocks_shape)
         learning_module.errorHandle(error_config, success_shape, attributes)
-        break
     print "i get here"
-    # for mdp in learning_module.mdp_list[-1]:
-    #     print len(mdp.getStateList())
-    # print "\n"
-    # learning_module.generateRules()
-    # learning_module.new_layer()
-    # print "First set of blocks done"
-    # blocks_shape = []
-    # block0 = Block(0, "prism", "red", "medium")
-    # block1 = Block(1, "cube", "blue", "medium")
-    # block2 = Block(2, "cuboid", "green", "medium")
-    # blocks_shape.append(block0)
-    # blocks_shape.append(block1)
-    # blocks_shape.append(block2)
-    # for error_config in errors_shape:
-    #     learning_module.initialise_mdp(blocks_shape)
-    #     learning_module.errorHandle(error_config, success_shape)
-    # print "i get here also"
-    # for mdp in learning_module.mdp_list[-1]:
-    #     print len(mdp.getStateList())
-    # print "\n"
-    # learning_module.generateRules()
-    # learning_module.new_layer()
-    #
-    # blocks_shape = []
-    # block0 = Block(0, "prism", "green", "small")
-    # block1 = Block(1, "cube", "red", "medium")
-    # block2 = Block(2, "cuboid", "green", "medium")
-    # blocks_shape.append(block0)
-    # blocks_shape.append(block1)
-    # blocks_shape.append(block2)
-    # for error_config in errors_shape:
-    #     learning_module.initialise_mdp(blocks_shape)
-    #     learning_module.errorHandle(error_config, success_shape)
-    # for mdp in learning_module.mdp_list[-1]:
-    #     print len(mdp.getStateList())
-    # print "\n"
-    # return learning_module.generateRules()
+    for mdp in learning_module.mdp_list[-1]:
+        print len(mdp.getStateList())
+    print "\n"
+    learning_module.generateRules()
+    learning_module.new_layer()
+    print "First set of blocks done"
+    blocks_shape = []
+    block0 = Block(0, "prism", "red", "medium")
+    block1 = Block(1, "cube", "blue", "medium")
+    block2 = Block(2, "cuboid", "green", "medium")
+    blocks_shape.append(block0)
+    blocks_shape.append(block1)
+    blocks_shape.append(block2)
+    for error_config in errors_shape:
+        learning_module.initialise_mdp(blocks_shape)
+        learning_module.errorHandle(error_config, success_shape, attributes)
+    print "i get here also"
+    for mdp in learning_module.mdp_list[-1]:
+        print len(mdp.getStateList())
+    print "\n"
+    learning_module.generateRules()
+    learning_module.new_layer()
+
+    blocks_shape = []
+    block0 = Block(0, "prism", "green", "small")
+    block1 = Block(1, "cube", "red", "medium")
+    block2 = Block(2, "cuboid", "green", "medium")
+    blocks_shape.append(block0)
+    blocks_shape.append(block1)
+    blocks_shape.append(block2)
+    for error_config in errors_shape:
+        learning_module.initialise_mdp(blocks_shape)
+        learning_module.errorHandle(error_config, success_shape, attributes)
+    for mdp in learning_module.mdp_list[-1]:
+        print len(mdp.getStateList())
+    print "\n"
+    return learning_module.generateRules()
 
 def scenarioGenerator(test, learning_module, attributes):
     switcher = {
