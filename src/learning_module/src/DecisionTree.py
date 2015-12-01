@@ -95,10 +95,13 @@ class DecisionTree:
     def getRules(self):
         self.createDecisionTree()
         rules = []
+        self.pruneDecisionTree()
         for rule in self.rules:
             average = 0.0
             for q_val in rule[-1]:
+                # print q_val[-1]
                 average += q_val[-1]
+            # print "\n"
             average /= len(rule[-1])
             rules.append([rule[0], average])
         return rules
@@ -124,10 +127,7 @@ class DecisionTree:
         else:
             return False
     def addLeafNode(self, current_node):
-        last_attr = current_node.getTrainingSet()[0][current_node.getAttribute().getIndex()]
-        new_rule = current_node.getRules()+[(current_node.getAttribute().getName()+ last_attr +")")]
         leaf_node = Node(None, current_node.getTrainingSet())
-        leaf_node.setRules(new_rule)
         return leaf_node
 
     def createDecisionTree(self, current_node = None):
@@ -139,14 +139,19 @@ class DecisionTree:
             current_node.setAddr(len(self.tree))
             self.tree.append(current_node)
         if not current_node.getChildrenAttributes():
+            self.tree[current_node.getAddr()].setLeafNode()
             return
         subsets = self.createSubsets(current_node)
         other_attr = deepcopy(current_node.getChildrenAttributes())
         for subset in subsets:
             child_node = self.findChildrenNode(current_node, other_attr, subset, len(current_node.getTrainingSet()))
             child_node.setParentAddr(current_node.getAddr())
+            child_node.setAddr(len(self.tree))
+            last_attr = subset[0]
+            new_rule = current_node.getRules()+[(current_node.getAttribute().getName()+ last_attr +")")]
+            child_node.setRules(new_rule)
             current_node.addChildNode(child_node)
-            current_node.addChildLink(len(self.tree))
+            self.tree[current_node.getAddr()].addChildLink(len(self.tree))
             self.tree.append(child_node)
         child_nodes = deepcopy(current_node.getChildNodes())
         for node in child_nodes:
@@ -156,7 +161,7 @@ class DecisionTree:
         for node in self.tree:
             if node != None:
                 if node.isLeafNode():
-                    parent_node = self.tree[node.getParentNode()]
+                    parent_node = self.tree[node.getParentAddr()]
                     leaf_nodes = []
                     for addr in parent_node.getChildLink():
                         if self.tree[addr].isLeafNode():
@@ -166,10 +171,17 @@ class DecisionTree:
                     if len(leaf_nodes)>0:
                         is_bound = self.isBoundNode(parent_node, leaf_nodes)
                         if is_bound == True:
+                            print "bounding"
                             for node in leaf_nodes:
                                 self.tree[node.getAddr()] = None
                             parent_node.setLeafNode()
 
+        for node in self.tree:
+            if node != None:
+                if node.isLeafNode():
+                    last_attr = node.getTrainingSet()[0][node.getAttribute().getIndex()]
+                    new_rule = node.getRules()+[(node.getAttribute().getName()+ last_attr +")")]
+                    self.rules.append([new_rule,node.getTrainingSet()])
 
     def averageQValue(self, trainingSet):
         qvals = []

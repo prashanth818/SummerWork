@@ -12,6 +12,7 @@ class StateAction:
         self.actionableBlock = actionableBlock
         self.nextStateAddr = None
         self.destinationBlock = destinationBlock
+        self.description = []
         """END"""
     def isVisited(self):
         return self.visited
@@ -29,4 +30,32 @@ class StateAction:
         self.nextStateAddr = addr
     def getNextStateAddr(self):
         return self.nextStateAddr
-       
+
+    def putDownQuery(self, blocks):
+        """ b0, b1, b2"""
+        """table, b0, b1, b2"""
+        move_query = []
+        for a_block in range(0, len(blocks)):
+            if a_block == self.actionableBlock:
+                if self.destinationBlock == None:
+                    query = "true"#["move("+str(block_id)+",table)","true"]
+                    move_query.append(query)
+                else:
+                    query = "false"#["move("+str(block_id)+",table)","false"]
+
+                    move_query.append(query)
+                for d_block in range(0, len(blocks)):
+                    if a_block != d_block:
+                        if d_block == self.destinationBlock:
+                            query = "true"#["move("+str(block_id)+","+str(i)+")","true"]
+                        else:
+                            query = "false"#["move("+str(block_id)+","+str(i)+")","false"]
+                        move_query.append(query)
+            else:
+                move_query.append("false")
+
+                for d_block in range(0, len(blocks)):
+                    if a_block != d_block:
+                        query = "false"#["move("+str(block_id)+","+str(i)+")","false"]
+                        move_query.append(query)
+        return move_query
